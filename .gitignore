@@ -1,0 +1,4 @@
+.temp1
+tmp
+test/*.txt
+!test/trotzdemwichtig.txt
